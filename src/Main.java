@@ -2,7 +2,7 @@
  * For Loops For Ricky
  * 
  *  A quick program to help my good pal Ricky
- *  With his for loops
+ *  with his for loops
  *  
  *  @author Thomas Lynaugh
  *  
